@@ -1,2 +1,2 @@
-# Samsung-note-10-plus
+# Samsung-Note20-5G
 Main
